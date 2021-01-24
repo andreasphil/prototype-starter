@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "preact": "^10.5.11"
+  },
+  "lock": {
+    "preact#^10.5.11": "preact@v10.5.11-pdPwE0QbFv29MsYuMPeh"
+  }
+}

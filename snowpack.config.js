@@ -4,10 +4,13 @@ module.exports = {
     src: "/",
   },
   plugins: ["@snowpack/plugin-postcss"],
-  install: [],
-  installOptions: {},
-  devOptions: {},
-  buildOptions: {},
-  proxy: {},
-  alias: {},
+  packageOptions: {
+    source: "remote",
+  },
+  optimize: {
+    bundle: true,
+    minify: true,
+    target: "es2019",
+    treeshake: true,
+  },
 }
