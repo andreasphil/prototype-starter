@@ -1,3 +1,5 @@
+> ⚠️ Nowadays I just use [`npx create-wmr`](https://wmr.dev)
+
 # Prototype Starter
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
